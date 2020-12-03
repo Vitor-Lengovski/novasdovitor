@@ -64,7 +64,7 @@
                             @else
                                 <input type="checkbox" name="active" id="active" class="custom-control-input" value="S">
                             @endif
-                            <label for="active" class="custom-control-label">Categoria Ativa</label>                        
+                            <label for="active" class="custom-control-label">Notícia Ativa</label>                        
                         </div>
                     </div>
                 </div>
